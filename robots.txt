@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aimievi.piccolo2d.org/sitemap.xml
